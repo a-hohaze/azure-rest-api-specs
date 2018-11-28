@@ -820,8 +820,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Review Labeled Examples request": {
-            "$ref": "./examples/examples/SuccessfulReviewLabeledExamplesRequest.json"
+          "Review Labeled Examples request": {
+            "$ref": "./examples/examples/ReviewLabeledExamplesRequest.json"
           }
         }
       }
