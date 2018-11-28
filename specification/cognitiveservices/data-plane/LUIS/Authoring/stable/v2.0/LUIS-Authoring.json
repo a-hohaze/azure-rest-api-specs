@@ -875,8 +875,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Delete Example Label request": {
-            "$ref": "./examples/examples/SuccessfulDeleteExampleLabelRequest.json"
+          "Delete Example Label request": {
+            "$ref": "./examples/examples/DeleteExampleLabelRequest.json"
           }
         }
       }
@@ -936,8 +936,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Create Intent Classifier request": {
-            "$ref": "./examples/model/SuccessfulCreateIntentClassifierRequest.json"
+          "Create Intent Classifier request": {
+            "$ref": "./examples/model/CreateIntentClassifierRequest.json"
           }
         }
       },
