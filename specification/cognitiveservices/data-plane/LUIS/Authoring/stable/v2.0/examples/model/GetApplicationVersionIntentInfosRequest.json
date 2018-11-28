@@ -33,6 +33,13 @@
         }
       ]
     },
+    "400": {
+      "headers": {},
+      "body": {
+        "statusCode": 400,
+        "message": "Cannot find an application version with the version ID \"0.1\"."
+      }
+    },
     "401": {
       "headers": {},
       "body": {
@@ -54,6 +61,5 @@
         "message": "Total monthly key quota limit exceeded."
       }
     }
-
   }
 }

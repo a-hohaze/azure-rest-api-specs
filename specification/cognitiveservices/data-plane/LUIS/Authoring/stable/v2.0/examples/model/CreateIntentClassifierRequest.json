@@ -13,6 +13,13 @@
       "headers": {},
       "body": "227a71ed-7d4b-4dce-8f3a-16c4e5cc06e8"
     },
+    "400": {
+      "headers": {},
+      "body": {
+        "statusCode": 400,
+        "message": "Cannot find an application version with the version ID \"0.1\"."
+      }
+    },
     "401": {
       "headers": {},
       "body": {
