@@ -1,0 +1,7 @@
+{
+    "headers": {},
+    "body": {
+      "statusCode": 403,
+      "message": "Rate limit is exceeded."
+    }
+}

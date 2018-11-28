@@ -1,0 +1,7 @@
+{
+    "headers": {},
+    "body": {
+      "statusCode": 429,
+      "message": "Rate limit is exceeded."
+    }
+}
