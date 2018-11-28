@@ -69,7 +69,9 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "$ref": "./examples/features/CreatePatternFeatureRequest.json"
+          "Create Pattern Feature request": {
+            "$ref": "./examples/features/CreatePatternFeatureRequest.json"
+          }
         }
       },
       "get": {
@@ -120,7 +122,7 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Version Pattern Features request": {
+          "Get Application Version Pattern Features request": {
             "$ref": "./examples/features/GetApplicationVersionPatternFeaturesRequest.json"
           }
         }
@@ -180,7 +182,9 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "$ref": "./examples/features/CreatePhraselistFeatureRequest.json"
+          "Create Phraselist Feature request": {
+            "$ref": "./examples/features/CreatePhraselistFeatureRequest.json"
+          }
         }
       },
       "get": {
@@ -230,7 +234,9 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "$ref": "./examples/features/GetApplicationVersionPhraselistFeaturesRequest.json"
+          "Get Application Version Phraselist Features request": {
+            "$ref": "./examples/features/GetApplicationVersionPhraselistFeaturesRequest.json"
+          }
         }
       }
     },
