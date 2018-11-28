@@ -121,7 +121,7 @@
         ],
         "x-ms-examples": {
           "Successful Get Application Version Pattern Features request": {
-            "$ref": "./examples/features/SuccessfulGetApplicationVersionPatternFeaturesRequest.json"
+            "$ref": "./examples/features/GetApplicationVersionPatternFeaturesRequest.json"
           }
         }
       }
