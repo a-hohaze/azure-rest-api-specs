@@ -519,8 +519,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Phraselist Feature Info request": {
-            "$ref": "./examples/features/SuccessfulGetPhraselistFeatureInfoRequest.json"
+          "Get Phraselist Feature Info request": {
+            "$ref": "./examples/features/GetPhraselistFeatureInfoRequest.json"
           }
         }
       },
