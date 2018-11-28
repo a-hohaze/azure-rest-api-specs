@@ -230,9 +230,7 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Version Phraselist Features request": {
-            "$ref": "./examples/features/SuccessfulGetApplicationVersionPhraselistFeaturesRequest.json"
-          }
+          "$ref": "./examples/features/GetApplicationVersionPhraselistFeaturesRequest.json"
         }
       }
     },
