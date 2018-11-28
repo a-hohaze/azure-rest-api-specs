@@ -1049,8 +1049,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Create Entity Extractor request": {
-            "$ref": "./examples/model/SuccessfulCreateEntityExtractorRequest.json"
+          "Create Entity Extractor request": {
+            "$ref": "./examples/model/CreateEntityExtractorRequest.json"
           }
         }
       },
