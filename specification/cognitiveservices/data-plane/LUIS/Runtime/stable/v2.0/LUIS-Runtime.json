@@ -105,9 +105,7 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Predictions From Endpoint Via Get request": {
-            "$ref": "./examples/prediction/SuccessfulGetPredictionsFromEndpointViaGetRequest.json"
-          }
+          "$ref": "./examples/prediction/SuccessfulGetPredictionsFromEndpointViaGetRequest.json"
         }
       },
       "post": {
