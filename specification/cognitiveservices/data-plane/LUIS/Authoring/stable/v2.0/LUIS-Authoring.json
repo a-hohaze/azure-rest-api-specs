@@ -344,8 +344,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Pattern Feature Info request": {
-            "$ref": "./examples/features/SuccessfulGetPatternFeatureInfoRequest.json"
+          "Get Pattern Feature Info request": {
+            "$ref": "./examples/features/GetPatternFeatureInfoRequest.json"
           }
         }
       },
