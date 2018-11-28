@@ -768,8 +768,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Batch Add Labels request": {
-            "$ref": "./examples/examples/SuccessfulBatchAddLabelsRequest.json"
+          "Batch Add Labels request": {
+            "$ref": "./examples/examples/BatchAddLabelsRequest.json"
           }
         }
       },
