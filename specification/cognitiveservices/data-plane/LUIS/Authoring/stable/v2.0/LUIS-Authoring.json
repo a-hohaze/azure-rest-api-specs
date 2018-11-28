@@ -1214,8 +1214,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Version Hierarchical Entity Infos request": {
-            "$ref": "./examples/model/SuccessfulGetApplicationVersionHierarchicalEntityInfosRequest.json"
+          "Get Application Version Hierarchical Entity Infos request": {
+            "$ref": "./examples/model/GetApplicationVersionHierarchicalEntityInfosRequest.json"
           }
         }
       }
