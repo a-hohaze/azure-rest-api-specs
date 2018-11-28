@@ -410,8 +410,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Update Pattern Feature Info request": {
-            "$ref": "./examples/features/SuccessfulUpdatePatternFeatureInfoRequest.json"
+          "Update Pattern Feature Info request": {
+            "$ref": "./examples/features/UpdatePatternFeatureInfoRequest.json"
           }
         }
       },
