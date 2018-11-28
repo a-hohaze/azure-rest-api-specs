@@ -988,8 +988,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Version Intent Infos request": {
-            "$ref": "./examples/model/SuccessfulGetApplicationVersionIntentInfosRequest.json"
+          "Get Application Version Intent Infos request": {
+            "$ref": "./examples/model/GetApplicationVersionIntentInfosRequest.json"
           }
         }
       }
