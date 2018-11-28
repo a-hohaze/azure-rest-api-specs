@@ -1162,8 +1162,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Create Hierarchical Entity Extractor request": {
-            "$ref": "./examples/model/SuccessfulCreateHierarchicalEntityExtractorRequest.json"
+          "Create Hierarchical Entity Extractor request": {
+            "$ref": "./examples/model/CreateHierarchicalEntityExtractorRequest.json"
           }
         }
       },
