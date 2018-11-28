@@ -288,8 +288,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Version Features request": {
-            "$ref": "./examples/features/SuccessfulGetApplicationVersionFeaturesRequest.json"
+          "Get Application Version Features request": {
+            "$ref": "./examples/features/GetApplicationVersionFeaturesRequest.json"
           }
         }
       }
