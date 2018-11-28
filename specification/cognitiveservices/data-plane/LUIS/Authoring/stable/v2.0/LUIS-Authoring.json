@@ -1101,8 +1101,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Version Entity Infos request": {
-            "$ref": "./examples/model/SuccessfulGetApplicationVersionEntityInfosRequest.json"
+          "Get Application Version Entity Infos request": {
+            "$ref": "./examples/model/GetApplicationVersionEntityInfosRequest.json"
           }
         }
       }
