@@ -16,13 +16,25 @@
         "body": 83147
       },
       "401": {
-        "$ref": "../common/ErrorCode401Example.json"
+        "headers": {},
+        "body": {
+          "statusCode": 401,
+          "message": "Access denied due to invalid subscription key. Make sure to provide a valid key for an active subscription."
+        }
       },
       "429": {
-        "$ref": "../common/ErrorCode429Example.json"
+        "headers": {},
+        "body": {
+          "statusCode": 429,
+          "message": "Rate limit is exceeded."
+        }
       },
       "403": {
-        "$ref": "../common/ErrorCode403Example.json"
+        "headers": {},
+        "body": {
+          "statusCode": 403,
+          "message": "Total monthly key quota limit exceeded."
+        }
       }
     }
   },
@@ -42,13 +54,25 @@
         }
       },
       "401": {
-        "$ref": "../common/ErrorCode401Example.json"
+        "headers": {},
+        "body": {
+          "statusCode": 401,
+          "message": "Access denied due to invalid subscription key. Make sure to provide a valid key for an active subscription."
+        }
       },
       "429": {
-        "$ref": "../common/ErrorCode429Example.json"
+        "headers": {},
+        "body": {
+          "statusCode": 429,
+          "message": "Rate limit is exceeded."
+        }
       },
       "403": {
-        "$ref": "../common/ErrorCode403Example.json"
+        "headers": {},
+        "body": {
+          "statusCode": 403,
+          "message": "Total monthly key quota limit exceeded."
+        }
       }
     }
   }
