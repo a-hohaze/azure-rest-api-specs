@@ -180,9 +180,7 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Create Phraselist Feature request": {
-            "$ref": "./examples/features/SuccessfulCreatePhraselistFeatureRequest.json"
-          }
+          "$ref": "./examples/features/CreatePhraselistFeatureRequest.json"
         }
       },
       "get": {
