@@ -1,5 +1,5 @@
 {
-  "Successful Create Phraselist Feature request": {
+  "Create Phraselist Feature request": {
     "parameters": {
       "Endpoint": "{Endpoint}",
       "Ocp-Apim-Subscription-Key": "00000000000000000000000000000000",

@@ -1,5 +1,5 @@
 {
-  "Successful Get Application Version Pattern Features request": {
+  "Get Application Version Pattern Features request": {
     "parameters": {
       "Endpoint": "{Endpoint}",
       "Ocp-Apim-Subscription-Key": "00000000000000000000000000000000",
