@@ -636,8 +636,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Delete Phraselist Feature Info request": {
-            "$ref": "./examples/features/SuccessfulDeletePhraselistFeatureInfoRequest.json"
+          "Delete Phraselist Feature Info request": {
+            "$ref": "./examples/features/DeletePhraselistFeatureInfoRequest.json"
           }
         }
       }
