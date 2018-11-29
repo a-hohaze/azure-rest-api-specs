@@ -1716,8 +1716,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Examples Per Model Request": {
-            "$ref": "./examples/model/SuccessfulGetExamplesPerModelRequest.json"
+          "Get Examples Per Model Request": {
+            "$ref": "./examples/model/GetExamplesPerModelRequest.json"
           }
         }
       }
