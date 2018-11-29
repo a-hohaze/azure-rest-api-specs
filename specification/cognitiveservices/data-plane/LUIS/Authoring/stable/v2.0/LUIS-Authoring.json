@@ -1767,8 +1767,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Intent Info request": {
-            "$ref": "./examples/model/SuccessfulGetIntentInfoRequest.json"
+          "Get Intent Info request": {
+            "$ref": "./examples/model/GetIntentInfoRequest.json"
           }
         }
       },
