@@ -2172,8 +2172,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Hierarchical Entity Info request": {
-            "$ref": "./examples/model/SuccessfulUpdateHierarchicalEntityModelRequest.json"
+          "Get Hierarchical Entity Info request": {
+            "$ref": "./examples/model/UpdateHierarchicalEntityModelRequest.json"
           }
         }
       },
