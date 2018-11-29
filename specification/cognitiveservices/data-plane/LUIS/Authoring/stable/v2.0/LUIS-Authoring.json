@@ -1275,8 +1275,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Create Composite Entity Extractor": {
-            "$ref": "./examples/model/SuccessfulCreateCompositeEntityExtractorRequest.json"
+          "Create Composite Entity Extractor": {
+            "$ref": "./examples/model/CreateCompositeEntityExtractorRequest.json"
           }
         }
       },
