@@ -1500,8 +1500,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Add Application Version Prebuilt Infos request": {
-            "$ref": "./examples/model/SuccessfulAddApplicationVersionPrebuiltInfosRequest.json"
+          "Add Application Version Prebuilt Infos request": {
+            "$ref": "./examples/model/AddApplicationVersionPrebuiltInfosRequest.json"
           }
         }
       },
