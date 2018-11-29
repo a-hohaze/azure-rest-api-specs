@@ -1828,8 +1828,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Rename Intent Model request": {
-            "$ref": "./examples/model/SuccessfulRenameIntentModelRequest.json"
+          "Rename Intent Model request": {
+            "$ref": "./examples/model/RenameIntentModelRequest.json"
           }
         }
       },
