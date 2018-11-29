@@ -1327,8 +1327,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Version Composite Entity Infos request": {
-            "$ref": "./examples/model/SuccessfulGetApplicationVersionCompositeEntityInfosRequest.json"
+          "Get Application Version Composite Entity Infos request": {
+            "$ref": "./examples/model/GetApplicationVersionCompositeEntityInfosRequest.json"
           }
         }
       }
