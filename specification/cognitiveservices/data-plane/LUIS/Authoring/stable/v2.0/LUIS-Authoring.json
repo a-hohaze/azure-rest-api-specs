@@ -1654,8 +1654,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Version Model Infos request": {
-            "$ref": "./examples/model/SuccessfulGetApplicationVersionModelInfosRequest.json"
+          "Get Application Version Model Infos request": {
+            "$ref": "./examples/model/GetApplicationVersionModelInfosRequest.json"
           }
         }
       }
