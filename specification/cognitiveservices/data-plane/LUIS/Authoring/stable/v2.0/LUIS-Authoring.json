@@ -1940,8 +1940,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Entity Info request": {
-            "$ref": "./examples/model/SuccessfulGetEntityInfoRequest.json"
+          "Get Entity Info request": {
+            "$ref": "./examples/model/GetEntityInfoRequest.json"
           }
         }
       },
