@@ -1440,8 +1440,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Create Closed List Entity Model request": {
-            "$ref": "./examples/model/SuccessfulCreateClosedListEntityModelRequest.json"
+          "Create Closed List Entity Model request": {
+            "$ref": "./examples/model/CreateClosedListEntityModelRequest.json"
           }
         }
       }
