@@ -2272,8 +2272,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Composite Entity Info request": {
-            "$ref": "./examples/model/SuccessfulGetCompositeEntityInfoRequest.json"
+          "Get Composite Entity Info request": {
+            "$ref": "./examples/model/GetCompositeEntityInfoRequest.json"
           }
         }
       },
