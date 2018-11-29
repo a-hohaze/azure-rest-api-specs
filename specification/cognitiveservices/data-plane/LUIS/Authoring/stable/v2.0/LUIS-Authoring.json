@@ -1600,8 +1600,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Available Prebuilt Entity Extractors request": {
-            "$ref": "./examples/model/SuccessfulGetAvailablePrebuiltEntityExtractorsRequest.json"
+          "Get Available Prebuilt Entity Extractors request": {
+            "$ref": "./examples/model/GetAvailablePrebuiltEntityExtractorsRequest.json"
           }
         }
       }
