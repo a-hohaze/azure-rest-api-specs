@@ -1381,8 +1381,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Version Closed List Infos request": {
-            "$ref": "./examples/model/SuccessfulGetApplicationVersionClosedListInfosRequest.json"
+          "Get Application Version Closed List Infos request": {
+            "$ref": "./examples/model/GetApplicationVersionClosedListInfosRequest.json"
           }
         }
       },
