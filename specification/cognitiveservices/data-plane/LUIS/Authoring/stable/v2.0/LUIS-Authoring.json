@@ -2307,8 +2307,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Update Composite Entity Extractor request": {
-            "$ref": "./examples/model/SuccessfulUpdateCompositeEntityModelRequest.json"
+          "Update Composite Entity Extractor request": {
+            "$ref": "./examples/model/UpdateCompositeEntityModelRequest.json"
           }
         },
         "produces": [
