@@ -3902,8 +3902,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Train Application Version request": {
-            "$ref": "./examples/train/SuccessfulTrainApplicationVersionRequest.json"
+          "Train Application Version request": {
+            "$ref": "./examples/train/TrainApplicationVersionRequest.json"
           }
         }
       },
