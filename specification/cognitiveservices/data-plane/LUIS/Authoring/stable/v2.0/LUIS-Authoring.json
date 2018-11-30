@@ -4595,8 +4595,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Add Sublist request": {
-            "$ref": "./examples/model/SuccessfulAddSublistToClosedListEntityModelRequest.json"
+          "Add Sublist request": {
+            "$ref": "./examples/model/AddSublistToClosedListEntityModelRequest.json"
           }
         }
       }
