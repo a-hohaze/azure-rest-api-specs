@@ -4272,8 +4272,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Delete Unlabelled Utterance": {
-            "$ref": "./examples/versions/SuccessfulDeleteUnlabelledUtteranceRequest.json"
+          "Delete Unlabelled Utterance": {
+            "$ref": "./examples/versions/DeleteUnlabelledUtteranceRequest.json"
           }
         }
       }
