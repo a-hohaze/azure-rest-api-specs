@@ -2797,8 +2797,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Delete Sublist request": {
-            "$ref": "./examples/model/SuccessfulDeleteSublistRequest.json"
+          "Delete Sublist request": {
+            "$ref": "./examples/model/DeleteSublistRequest.json"
           }
         }
       },
