@@ -2870,8 +2870,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Update Sublist request": {
-            "$ref": "./examples/model/SuccessfulUpdateSublistRequest.json"
+          "Update Sublist request": {
+            "$ref": "./examples/model/UpdateSublistRequest.json"
           }
         }
       }
