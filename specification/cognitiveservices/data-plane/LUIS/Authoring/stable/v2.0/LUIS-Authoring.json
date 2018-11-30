@@ -4057,8 +4057,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Settings request": {
-            "$ref": "./examples/apps/SuccessfulGetApplicationSettingsRequest.json"
+          "Get Application Settings request": {
+            "$ref": "./examples/apps/GetApplicationSettingsRequest.json"
           }
         }
       },
