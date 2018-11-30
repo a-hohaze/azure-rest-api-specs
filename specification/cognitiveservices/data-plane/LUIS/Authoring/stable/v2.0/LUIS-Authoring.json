@@ -4427,8 +4427,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Remove User From Access List": {
-            "$ref": "./examples/permissions/SuccessfulRemoveUserFromAccessListRequest.json"
+          "Remove User From Access List": {
+            "$ref": "./examples/permissions/RemoveUserFromAccessListRequest.json"
           }
         }
       },
