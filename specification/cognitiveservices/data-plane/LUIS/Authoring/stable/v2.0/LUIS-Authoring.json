@@ -4212,8 +4212,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Update Publish Settings request": {
-            "$ref": "./examples/apps/SuccessfulUpdatePublishSettingsRequest.json"
+          "Update Publish Settings request": {
+            "$ref": "./examples/apps/UpdatePublishSettingsRequest.json"
           }
         }
       }
