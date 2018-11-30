@@ -2924,8 +2924,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Intents Suggestion Examples": {
-            "$ref": "./examples/model/SuccessfulGetIntentsSuggestionExamples.json"
+          "Get Intents Suggestion Examples": {
+            "$ref": "./examples/model/GetIntentsSuggestionExamples.json"
           }
         }
       }
