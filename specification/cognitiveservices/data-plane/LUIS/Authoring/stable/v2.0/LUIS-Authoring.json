@@ -3478,8 +3478,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Rename Application request": {
-            "$ref": "./examples/apps/SuccessfulDeleteApplicationRequest.json"
+          "Rename Application request": {
+            "$ref": "./examples/apps/DeleteApplicationRequest.json"
           }
         }
       }
