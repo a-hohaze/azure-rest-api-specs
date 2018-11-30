@@ -4917,8 +4917,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Custom Prebuilt Domain Models request": {
-            "$ref": "./examples/model/SuccessfulGetCustomPrebuiltDomainModelsRequest.json"
+          "Get Custom Prebuilt Domain Models request": {
+            "$ref": "./examples/model/GetCustomPrebuiltDomainModelsRequest.json"
           }
         }
       }
