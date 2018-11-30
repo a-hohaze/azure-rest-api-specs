@@ -2680,8 +2680,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Prebuilt Info request": {
-            "$ref": "./examples/model/SuccessfulGetPrebuiltInfoRequest.json"
+          "Get Prebuilt Info request": {
+            "$ref": "./examples/model/GetPrebuiltInfoRequest.json"
           }
         }
       },
