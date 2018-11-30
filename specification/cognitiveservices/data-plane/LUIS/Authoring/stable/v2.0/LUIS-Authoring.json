@@ -2624,8 +2624,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Delete Closed List Entity Info request": {
-            "$ref": "./examples/model/SuccessfulDeleteClosedListEntityModelRequest.json"
+          "Delete Closed List Entity Info request": {
+            "$ref": "./examples/model/DeleteClosedListEntityModelRequest.json"
           }
         }
       }
