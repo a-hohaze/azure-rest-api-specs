@@ -4655,8 +4655,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Add Custom Prebuilt Domain to Application request": {
-            "$ref": "./examples/model/SuccessfulAddCustomPrebuildDomainToApplicationRequest.json"
+          "Add Custom Prebuilt Domain to Application request": {
+            "$ref": "./examples/model/AddCustomPrebuiltDomainToApplicationRequest.json"
           }
         }
       }
