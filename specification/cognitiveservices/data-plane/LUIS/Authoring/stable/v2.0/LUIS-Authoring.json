@@ -3287,8 +3287,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Cultures request": {
-            "$ref": "./examples/apps/SuccessfulGetApplicationCulturesRequest.json"
+          "Get Application Cultures request": {
+            "$ref": "./examples/apps/GetApplicationCulturesRequest.json"
           }
         }
       }
