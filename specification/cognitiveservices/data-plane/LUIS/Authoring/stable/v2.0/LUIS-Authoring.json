@@ -4716,8 +4716,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Add Custom Prebuilt Intent request": {
-            "$ref": "./examples/model/SuccessfulAddCustomPrebuildIntentRequest.json"
+          "Add Custom Prebuilt Intent request": {
+            "$ref": "./examples/model/AddCustomPrebuiltIntentRequest.json"
           }
         }
       },
