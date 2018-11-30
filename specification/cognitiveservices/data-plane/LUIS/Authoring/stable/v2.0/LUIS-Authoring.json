@@ -3251,8 +3251,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Usage Scenarios request": {
-            "$ref": "./examples/apps/SuccessfulGetApplicationUsageScenariosListRequest.json"
+          "Get Application Usage Scenarios request": {
+            "$ref": "./examples/apps/GetApplicationUsageScenariosListRequest.json"
           }
         }
       }
