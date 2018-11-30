@@ -4012,8 +4012,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Import Application": {
-            "$ref": "./examples/versions/SuccessfulImportApplicationVersionRequest.json"
+          "Import Application": {
+            "$ref": "./examples/versions/ImportApplicationVersionRequest.json"
           }
         }
       }
