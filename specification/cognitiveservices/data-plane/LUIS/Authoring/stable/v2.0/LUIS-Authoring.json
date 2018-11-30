@@ -2438,8 +2438,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Closed List Entity Info request": {
-            "$ref": "./examples/model/SuccessfulGetClosedListEntityInfoRequest.json"
+          "Get Closed List Entity Info request": {
+            "$ref": "./examples/model/GetClosedListEntityInfoRequest.json"
           }
         }
       },
