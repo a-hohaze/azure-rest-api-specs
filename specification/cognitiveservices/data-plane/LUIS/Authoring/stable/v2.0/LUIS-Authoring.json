@@ -2734,8 +2734,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Prebuilt Info request": {
-            "$ref": "./examples/model/SuccessfulDeletePrebuiltEntityRequest.json"
+          "Get Prebuilt Info request": {
+            "$ref": "./examples/model/DeletePrebuiltEntityRequest.json"
           }
         }
       }
