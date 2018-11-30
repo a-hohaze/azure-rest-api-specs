@@ -3754,8 +3754,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Rename Application Version request": {
-            "$ref": "./examples/versions/SuccessfulRenameApplicationVersionRequest.json"
+          "Rename Application Version request": {
+            "$ref": "./examples/versions/RenameApplicationVersionRequest.json"
           }
         }
       },
