@@ -3335,8 +3335,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Download Application Query logs request": {
-            "$ref": "./examples/apps/SuccessfulDownloadApplicationQueryLogsRequest.json"
+          "Download Application Query logs request": {
+            "$ref": "./examples/apps/DownloadApplicationQueryLogsRequest.json"
           }
         }
       }
