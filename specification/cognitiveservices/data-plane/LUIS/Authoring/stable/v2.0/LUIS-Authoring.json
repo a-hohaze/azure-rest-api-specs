@@ -5008,8 +5008,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Available Custom Prebuilt Domains request": {
-            "$ref": "./examples/apps/SuccessfulGetAvailableCustomPrebuiltDomainsRequest.json"
+          "Get Available Custom Prebuilt Domains request": {
+            "$ref": "./examples/apps/GetAvailableCustomPrebuiltDomainsRequest.json"
           }
         }
       },
