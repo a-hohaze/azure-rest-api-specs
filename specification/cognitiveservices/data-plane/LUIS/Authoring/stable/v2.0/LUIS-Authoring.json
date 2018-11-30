@@ -4482,8 +4482,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Replaces Users From Access List": {
-            "$ref": "./examples/permissions/SuccessfulReplacesUsersFromAccessListRequest.json"
+          "Replaces Users From Access List": {
+            "$ref": "./examples/permissions/ReplacesUsersFromAccessListRequest.json"
           }
         }
       }
