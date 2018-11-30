@@ -3038,8 +3038,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Application Creation": {
-            "$ref": "./examples/apps/SuccessfulAddApplicationRequest.json"
+          "Application Creation": {
+            "$ref": "./examples/apps/AddApplicationRequest.json"
           }
         }
       },
