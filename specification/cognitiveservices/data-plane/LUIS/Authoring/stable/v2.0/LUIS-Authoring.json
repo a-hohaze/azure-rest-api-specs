@@ -4972,8 +4972,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Delete Prebuilt Domain from Application request": {
-            "$ref": "./examples/model/SuccessfulDeletePrebuiltDomainFromApplicationRequest.json"
+          "Delete Prebuilt Domain from Application request": {
+            "$ref": "./examples/model/DeletePrebuiltDomainFromApplicationRequest.json"
           }
         }
       }
