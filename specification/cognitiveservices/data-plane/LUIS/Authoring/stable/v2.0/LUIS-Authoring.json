@@ -3594,8 +3594,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Publish Application request": {
-            "$ref": "./examples/apps/SuccessfulPublishApplicationRequest.json"
+          "Publish Application request": {
+            "$ref": "./examples/apps/PublishApplicationRequest.json"
           }
         }
       }
