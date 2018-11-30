@@ -3179,8 +3179,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Personal Assistant Applications": {
-            "$ref": "./examples/apps/SuccessfulGetPersonalAssistantApplications.json"
+          "Get Personal Assistant Applications": {
+            "$ref": "./examples/apps/GetPersonalAssistantApplications.json"
           }
         }
       }
