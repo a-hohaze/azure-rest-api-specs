@@ -4527,8 +4527,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Endpoints request": {
-            "$ref": "./examples/apps/SuccessfulGetEndpointsRequest.json"
+          "Get Endpoints request": {
+            "$ref": "./examples/apps/GetEndpointsRequest.json"
           }
         }
       }
