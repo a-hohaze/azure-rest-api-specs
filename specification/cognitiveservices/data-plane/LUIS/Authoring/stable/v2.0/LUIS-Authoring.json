@@ -3949,8 +3949,8 @@
           "JSON"
         ],
         "x-ms-examples": {
-          "Successful Get Application Version Training Status request": {
-            "$ref": "./examples/train/SuccessfulGetApplicationVersionTrainingStatusRequest.json"
+          "Get Application Version Training Status request": {
+            "$ref": "./examples/train/GetApplicationVersionTrainingStatusRequest.json"
           }
         }
       }
