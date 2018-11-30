@@ -3143,8 +3143,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Import Application": {
-            "$ref": "./examples/apps/SuccessfulImportApplicationRequest.json"
+          "Import Application": {
+            "$ref": "./examples/apps/ImportApplicationRequest.json"
           }
         }
       }
