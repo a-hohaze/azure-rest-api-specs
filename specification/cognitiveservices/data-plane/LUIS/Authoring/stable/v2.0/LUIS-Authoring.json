@@ -4317,8 +4317,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application User Access List": {
-            "$ref": "./examples/permissions/SuccessfulGetApplicationUserAccessListRequest.json"
+          "Get Application User Access List": {
+            "$ref": "./examples/permissions/GetApplicationUserAccessListRequest.json"
           }
         }
       },
