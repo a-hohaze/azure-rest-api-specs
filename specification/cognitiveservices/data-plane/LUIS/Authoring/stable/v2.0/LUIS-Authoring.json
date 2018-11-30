@@ -3648,8 +3648,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Versions info request": {
-            "$ref": "./examples/versions/SuccessfulGetApplicationVersionsInfoRequest.json"
+          "Get Application Versions info request": {
+            "$ref": "./examples/versions/GetApplicationVersionsInfoRequest.json"
           }
         }
       }
@@ -3696,8 +3696,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Version info request": {
-            "$ref": "./examples/versions/SuccessfulGetApplicationVersionInfoRequest.json"
+          "Get Application Version info request": {
+            "$ref": "./examples/versions/GetApplicationVersionInfoRequest.json"
           }
         }
       },
