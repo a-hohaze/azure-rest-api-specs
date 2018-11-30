@@ -2504,8 +2504,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Update Closed List Entity Info request": {
-            "$ref": "./examples/model/SuccessfulUpdateClosedListEntityModelRequest.json"
+          "Update Closed List Entity Info request": {
+            "$ref": "./examples/model/UpdateClosedListEntityModelRequest.json"
           }
         }
       },
