@@ -2983,8 +2983,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Entity Suggestion Examples": {
-            "$ref": "./examples/model/SuccessfulGetEntitySuggestionExamples.json"
+          "Get Entity Suggestion Examples": {
+            "$ref": "./examples/model/GetEntitySuggestionExamples.json"
           }
         }
       }
