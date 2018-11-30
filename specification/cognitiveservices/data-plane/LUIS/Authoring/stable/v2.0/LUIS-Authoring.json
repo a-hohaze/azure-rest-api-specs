@@ -3848,8 +3848,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Export Application Version": {
-            "$ref": "./examples/versions/SuccessfulExportApplicationVersionRequest.json"
+          "Export Application Version": {
+            "$ref": "./examples/versions/ExportApplicationVersionRequest.json"
           }
         }
       }
