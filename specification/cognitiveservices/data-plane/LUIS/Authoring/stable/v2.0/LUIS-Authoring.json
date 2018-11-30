@@ -4763,7 +4763,7 @@
         ],
         "x-ms-examples": {
           "Get Custom Prebuilt Intent request": {
-            "$ref": "./examples/model/GetCustomPrebuildIntentRequest.json"
+            "$ref": "./examples/model/GetCustomPrebuiltIntentRequest.json"
           }
         }
       }
@@ -4823,8 +4823,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Add Custom Prebuilt Entity request": {
-            "$ref": "./examples/model/SuccessfulAddCustomPrebuiltEntityRequest.json"
+          "Add Custom Prebuilt Entity request": {
+            "$ref": "./examples/model/AddCustomPrebuiltEntityRequest.json"
           }
         }
       },
