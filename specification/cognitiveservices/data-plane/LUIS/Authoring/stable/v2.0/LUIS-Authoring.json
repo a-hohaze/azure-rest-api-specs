@@ -2570,8 +2570,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Add SubLists to Closed List Entity request": {
-            "$ref": "./examples/model/SuccessfulPatchClosedListEntityModelRequest.json"
+          "Add SubLists to Closed List Entity request": {
+            "$ref": "./examples/model/PatchClosedListEntityModelRequest.json"
           }
         }
       },
