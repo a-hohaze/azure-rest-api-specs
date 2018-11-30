@@ -3380,8 +3380,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Info request": {
-            "$ref": "./examples/apps/SuccessfulGetApplicationInfoRequest.json"
+          "Get Application Info request": {
+            "$ref": "./examples/apps/GetApplicationInfoRequest.json"
           }
         }
       },

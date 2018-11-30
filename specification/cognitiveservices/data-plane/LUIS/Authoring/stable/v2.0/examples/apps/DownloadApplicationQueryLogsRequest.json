@@ -2,7 +2,7 @@
   "parameters": {
     "Endpoint": "{Endpoint}",
     "Ocp-Apim-Subscription-Key": "00000000000000000000000000000000",
-    "appId": "62c2c890-0cc-4b17-b34a-7fe7ebb1540c"
+    "appId": "62c2c890-1ccc-4b17-b34a-7fe7ebb1540c"
   },
   "responses": {
     "200": {
@@ -15,7 +15,7 @@
       "headers": {},
       "body": {
         "statusCode": 400,
-        "message": "62c2c890-0cc-4b17-b34a-7fe7ebb1540c is not a valid value for appId."
+        "message": "Cannot find an application with the ID 62c2c890-1ccc-4b17-b34a-7fe7ebb1540c."
       }
     },
     "401": {
