@@ -4372,8 +4372,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Add User To Access List": {
-            "$ref": "./examples/permissions/SuccessfulAddUserToAccessListRequest.json"
+          "Add User To Access List": {
+            "$ref": "./examples/permissions/AddUserToAccessListRequest.json"
           }
         }
       },
