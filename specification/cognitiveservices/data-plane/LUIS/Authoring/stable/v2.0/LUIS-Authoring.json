@@ -3084,9 +3084,7 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Applications List request": {
-            "$ref": "./examples/apps/SuccessfulGetApplicationsListRequest.json"
-          }
+          "$ref": "./examples/apps/GetApplicationsListRequest.json"
         }
       }
     },
