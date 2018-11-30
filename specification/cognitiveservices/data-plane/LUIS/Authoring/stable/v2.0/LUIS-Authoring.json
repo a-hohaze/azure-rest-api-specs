@@ -3537,8 +3537,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Clone Application Version request": {
-            "$ref": "./examples/versions/SuccessfulCloneApplicatioVersionRequest.json"
+          "Clone Application Version request": {
+            "$ref": "./examples/versions/CloneApplicatioVersionRequest.json"
           }
         }
       }
