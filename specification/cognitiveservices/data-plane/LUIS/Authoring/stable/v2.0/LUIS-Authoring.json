@@ -4869,8 +4869,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Custom Prebuilt Domain Entities request": {
-            "$ref": "./examples/model/SuccessfulGetCustomPrebuiltDomainEntitiesRequest.json"
+          "Get Custom Prebuilt Domain Entities request": {
+            "$ref": "./examples/model/GetCustomPrebuiltDomainEntitiesRequest.json"
           }
         }
       }
