@@ -5161,8 +5161,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Hierarchical Entity Child Info request": {
-            "$ref": "./examples/model/SuccessfulGetHierarchicalChildEntityInfoRequest.json"
+          "Get Hierarchical Entity Child Info request": {
+            "$ref": "./examples/model/GetHierarchicalChildEntityInfoRequest.json"
           }
         }
       },
