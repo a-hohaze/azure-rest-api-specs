@@ -7953,8 +7953,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Delete Regex Entity Role request": {
-            "$ref": "./examples/model/SuccessfulDeleteRegexEntityRoleRequest.json"
+          "Delete Regex Entity Role request": {
+            "$ref": "./examples/model/DeleteRegexEntityRoleRequest.json"
           }
         }
       }
