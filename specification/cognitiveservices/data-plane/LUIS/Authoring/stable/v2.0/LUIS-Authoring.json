@@ -7291,8 +7291,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Update Entity Extractor Role request": {
-            "$ref": "./examples/model/SuccessfulUpdateEntityRoleRequest.json"
+          "Update Entity Extractor Role request": {
+            "$ref": "./examples/model/UpdateEntityRoleRequest.json"
           }
         }
       },
