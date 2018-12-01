@@ -7891,8 +7891,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Update Regex Entity Extractor Role request": {
-            "$ref": "./examples/model/SuccessfulUpdateRegexEntityRoleRequest.json"
+          "Update Regex Entity Extractor Role request": {
+            "$ref": "./examples/model/UpdateRegexEntityRoleRequest.json"
           }
         }
       },
