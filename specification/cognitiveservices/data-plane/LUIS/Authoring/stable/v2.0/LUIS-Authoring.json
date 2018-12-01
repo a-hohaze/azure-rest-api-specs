@@ -7217,8 +7217,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Get Entity Extractor Role request": {
-            "$ref": "./examples/model/SuccessfulGetEntityRoleInfoRequest.json"
+          "Get Entity Extractor Role request": {
+            "$ref": "./examples/model/GetEntityRoleInfoRequest.json"
           }
         }
       },
