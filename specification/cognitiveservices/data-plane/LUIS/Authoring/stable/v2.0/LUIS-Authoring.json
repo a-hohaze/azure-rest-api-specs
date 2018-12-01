@@ -8787,8 +8787,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Get Pattern.Any Explicit List Item request": {
-            "$ref": "./examples/model/SuccessfulGetPatternAnyExplicitListItemRequest.json"
+          "Get Pattern.Any Explicit List Item request": {
+            "$ref": "./examples/model/GetPatternAnyExplicitListItemRequest.json"
           }
         }
       },
