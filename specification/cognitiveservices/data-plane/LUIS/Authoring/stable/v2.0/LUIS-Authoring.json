@@ -5361,8 +5361,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Create Hierarchical Entity Child Model request": {
-            "$ref": "./examples/model/SuccessfulCreateHierarchicalChildModelRequest.json"
+          "Create Hierarchical Entity Child Model request": {
+            "$ref": "./examples/model/CreateHierarchicalChildModelRequest.json"
           }
         }
       }
