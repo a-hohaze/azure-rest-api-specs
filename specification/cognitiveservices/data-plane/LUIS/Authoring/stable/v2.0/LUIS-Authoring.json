@@ -6140,8 +6140,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Get Regex Entity Roles request": {
-            "$ref": "./examples/model/SuccessfulGetRegexEntityRolesRequest.json"
+          "Get Regex Entity Roles request": {
+            "$ref": "./examples/model/GetRegexEntityRolesRequest.json"
           }
         }
       },
