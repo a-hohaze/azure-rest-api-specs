@@ -5292,8 +5292,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Delete Hierarchical Entity Child Model request": {
-            "$ref": "./examples/model/SuccessfulDeleteHierarchicalChildModelRequest.json"
+          "Delete Hierarchical Entity Child Model request": {
+            "$ref": "./examples/model/DeleteHierarchicalChildModelRequest.json"
           }
         }
       }
