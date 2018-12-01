@@ -7617,8 +7617,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Get Closed List Entity Role request": {
-            "$ref": "./examples/model/SuccessfulGetClosedListEntityRoleInfoRequest.json"
+          "Get Closed List Entity Role request": {
+            "$ref": "./examples/model/GetClosedListEntityRoleInfoRequest.json"
           }
         }
       },
