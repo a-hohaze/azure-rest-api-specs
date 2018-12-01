@@ -5771,8 +5771,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Get Entity Roles request": {
-            "$ref": "./examples/model/SuccessfulGetEntityRolesRequest.json"
+          "Get Entity Roles request": {
+            "$ref": "./examples/model/GetEntityRolesRequest.json"
           }
         }
       },
