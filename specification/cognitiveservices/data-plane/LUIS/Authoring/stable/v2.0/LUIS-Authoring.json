@@ -6320,8 +6320,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Create Composite Entity Role request": {
-            "$ref": "./examples/model/SuccessfulCreateCompositeEntityRoleRequest.json"
+          "Create Composite Entity Role request": {
+            "$ref": "./examples/model/CreateCompositeEntityRoleRequest.json"
           }
         }
       }
