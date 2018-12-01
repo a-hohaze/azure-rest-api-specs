@@ -6084,8 +6084,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Create Closed List Entity Role request": {
-            "$ref": "./examples/model/SuccessfulCreateClosedListEntityRoleRequest.json"
+          "Create Closed List Entity Role request": {
+            "$ref": "./examples/model/CreateClosedListEntityRoleRequest.json"
           }
         }
       }
