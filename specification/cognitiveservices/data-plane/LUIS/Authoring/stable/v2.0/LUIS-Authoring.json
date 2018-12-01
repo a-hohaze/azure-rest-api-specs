@@ -7099,8 +7099,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Update Pattern.Any Entity request": {
-            "$ref": "./examples/model/SuccessfulUpdatePatternAnyEntityRequest.json"
+          "Update Pattern.Any Entity request": {
+            "$ref": "./examples/model/UpdatePatternAnyEntityRequest.json"
           }
         }
       },
