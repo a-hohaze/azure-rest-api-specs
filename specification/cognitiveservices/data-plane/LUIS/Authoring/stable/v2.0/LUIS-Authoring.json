@@ -8276,8 +8276,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Update Pattern.Any Entity Extractor Role request": {
-            "$ref": "./examples/model/SuccessfulUpdatePatternAnyEntityRoleRequest.json"
+          "Update Pattern.Any Entity Extractor Role request": {
+            "$ref": "./examples/model/UpdatePatternAnyEntityRoleRequest.json"
           }
         }
       },
