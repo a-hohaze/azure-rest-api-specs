@@ -7691,8 +7691,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Update Closed List Entity Extractor Role request": {
-            "$ref": "./examples/model/SuccessfulUpdateClosedListEntityRoleRequest.json"
+          "Update Closed List Entity Extractor Role request": {
+            "$ref": "./examples/model/UpdateClosedListEntityRoleRequest.json"
           }
         }
       },
