@@ -6923,8 +6923,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Update Regex Entity request": {
-            "$ref": "./examples/model/SuccessfulUpdateRegexEntityModelRequest.json"
+          "Update Regex Entity request": {
+            "$ref": "./examples/model/UpdateRegexEntityModelRequest.json"
           }
         }
       },
