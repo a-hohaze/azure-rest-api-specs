@@ -5430,8 +5430,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Create Composite Entity Child Model request": {
-            "$ref": "./examples/model/SuccessfulCreateCompositeChildModelRequest.json"
+          "Create Composite Entity Child Model request": {
+            "$ref": "./examples/model/CreateCompositeChildModelRequest.json"
           }
         }
       }
