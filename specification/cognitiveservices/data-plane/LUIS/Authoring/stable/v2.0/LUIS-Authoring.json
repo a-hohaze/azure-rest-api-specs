@@ -7817,8 +7817,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Get Regex Entity Role request": {
-            "$ref": "./examples/model/SuccessfulGetRegexEntityRoleInfoRequest.json"
+          "Get Regex Entity Role request": {
+            "$ref": "./examples/model/GetRegexEntityRoleInfoRequest.json"
           }
         }
       },
