@@ -6258,8 +6258,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Get Composite Entity Roles request": {
-            "$ref": "./examples/model/SuccessfulGetCompositeEntityRolesRequest.json"
+          "Get Composite Entity Roles request": {
+            "$ref": "./examples/model/GetCompositeEntityRolesRequest.json"
           }
         }
       },
