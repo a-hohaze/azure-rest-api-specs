@@ -5715,8 +5715,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Create Regex Entity Model request": {
-            "$ref": "./examples/model/SuccessfulCreatePatternAnyEntityExtractorRequest.json"
+          "Create Regex Entity Model request": {
+            "$ref": "./examples/model/CreatePatternAnyEntityExtractorRequest.json"
           }
         }
       }
