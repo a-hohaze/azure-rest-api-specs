@@ -8138,8 +8138,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Delete Composite Entity Role request": {
-            "$ref": "./examples/model/SuccessfulDeleteCompositeEntityRoleRequest.json"
+          "Delete Composite Entity Role request": {
+            "$ref": "./examples/model/DeleteCompositeEntityRoleRequest.json"
           }
         }
       }
