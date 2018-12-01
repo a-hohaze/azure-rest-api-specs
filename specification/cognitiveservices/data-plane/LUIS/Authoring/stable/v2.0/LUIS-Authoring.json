@@ -8523,8 +8523,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Delete Hierarchical Entity Role request": {
-            "$ref": "./examples/model/SuccessfulDeleteHierarchicalEntityRoleRequest.json"
+          "Delete Hierarchical Entity Role request": {
+            "$ref": "./examples/model/DeleteHierarchicalEntityRoleRequest.json"
           }
         }
       }
