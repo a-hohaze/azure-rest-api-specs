@@ -6857,8 +6857,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Get Regex Entity request": {
-            "$ref": "./examples/model/SuccessfulGetRegexEntityInfoRequest.json"
+          "Get Regex Entity request": {
+            "$ref": "./examples/model/GetRegexEntityInfoRequest.json"
           }
         }
       },
