@@ -8587,8 +8587,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Get Custom Prebuilt Domain Entity Role request": {
-            "$ref": "./examples/model/SuccessfulGetCustomPrebuiltEntityRoleInfoRequest.json"
+          "Get Custom Prebuilt Domain Entity Role request": {
+            "$ref": "./examples/model/GetCustomPrebuiltEntityRoleInfoRequest.json"
           }
         }
       },
