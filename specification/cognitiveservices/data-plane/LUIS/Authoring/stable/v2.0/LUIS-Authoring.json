@@ -7153,8 +7153,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Delete Pattern.Any Entity request": {
-            "$ref": "./examples/model/SuccessfulDeletePatternAnyEntityRequest.json"
+          "Delete Pattern.Any Entity request": {
+            "$ref": "./examples/model/DeletePatternAnyEntityRequest.json"
           }
         }
       }
