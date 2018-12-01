@@ -5961,8 +5961,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Create Prebuilt Entity Role request": {
-            "$ref": "./examples/model/SuccessfulCreatePrebuiltEntityRoleRequest.json"
+          "Create Prebuilt Entity Role request": {
+            "$ref": "./examples/model/CreatePrebuiltEntityRoleRequest.json"
           }
         }
       }
