@@ -5061,9 +5061,7 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Add Custom Prebuilt Application request": {
-            "$ref": "./examples/apps/SuccessfulAddCustomPrebuiltApplicationRequest.json"
-          }
+          "$ref": "./examples/apps/AddCustomPrebuiltApplicationRequest.json"
         }
       }
     },
