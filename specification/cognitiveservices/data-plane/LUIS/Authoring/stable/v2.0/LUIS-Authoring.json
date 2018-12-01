@@ -8861,8 +8861,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Update Pattern.Any Entity Explicit List Item request": {
-            "$ref": "./examples/model/SuccessfulUpdatePatternAnyEntityExplicitListItemRequest.json"
+          "Update Pattern.Any Entity Explicit List Item request": {
+            "$ref": "./examples/model/UpdatePatternAnyEntityExplicitListItemRequest.json"
           }
         }
       },
