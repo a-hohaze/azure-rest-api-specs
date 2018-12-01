@@ -7417,8 +7417,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Get Prebuilt Entity Role request": {
-            "$ref": "./examples/model/SuccessfulGetPrebuiltEntityRoleInfoRequest.json"
+          "Get Prebuilt Entity Role request": {
+            "$ref": "./examples/model/GetPrebuiltEntityRoleInfoRequest.json"
           }
         }
       },
