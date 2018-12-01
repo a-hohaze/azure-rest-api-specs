@@ -5094,12 +5094,6 @@
           "401": {
             "$ref": "#/responses/401"
           },
-          "400": {
-            "description": "This error can be returned if the request's parameters are incorrect meaning the required parameters are missing, malformed, or too large.",
-            "schema": {
-              "$ref": "#/definitions/ErrorResponse"
-            }
-          },
           "403": {
             "$ref": "#/responses/403"
           }
@@ -5108,8 +5102,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get AvailableCustomPrebuiltDomainsForCulture request": {
-            "$ref": "./examples/apps/SuccessfulGetAvailableCustomPrebuiltDomainsForCultureRequest.json"
+          "Get AvailableCustomPrebuiltDomainsForCulture request": {
+            "$ref": "./examples/apps/GetAvailableCustomPrebuiltDomainsForCultureRequest.json"
           }
         }
       }
