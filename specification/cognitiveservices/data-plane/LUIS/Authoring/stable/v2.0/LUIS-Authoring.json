@@ -7353,8 +7353,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Delete Entity Extractor Role request": {
-            "$ref": "./examples/model/SuccessfulDeleteEntityRoleRequest.json"
+          "Delete Entity Extractor Role request": {
+            "$ref": "./examples/model/DeleteEntityRoleRequest.json"
           }
         }
       }
