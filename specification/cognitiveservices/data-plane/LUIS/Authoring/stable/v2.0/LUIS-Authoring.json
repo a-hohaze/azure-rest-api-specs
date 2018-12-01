@@ -6376,8 +6376,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Get Pattern.Any Entity Roles request": {
-            "$ref": "./examples/model/SuccessfulGetPatternAnyEntityRolesRequest.json"
+          "Get Pattern.Any Entity Roles request": {
+            "$ref": "./examples/model/GetPatternAnyEntityRolesRequest.json"
           }
         }
       },
