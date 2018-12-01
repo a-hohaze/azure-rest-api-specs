@@ -8338,8 +8338,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Delete Pattern.Any Entity Role request": {
-            "$ref": "./examples/model/SuccessfulDeletePatternAnyEntityRoleRequest.json"
+          "Delete Pattern.Any Entity Role request": {
+            "$ref": "./examples/model/DeletePatternAnyEntityRoleRequest.json"
           }
         }
       }
