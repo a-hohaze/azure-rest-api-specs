@@ -6443,8 +6443,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Create Pattern.Any Entity Role request": {
-            "$ref": "./examples/model/SuccessfulCreatePatternAnyEntityRoleRequest.json"
+          "Create Pattern.Any Entity Role request": {
+            "$ref": "./examples/model/CreatePatternAnyEntityRoleRequest.json"
           }
         }
       }
