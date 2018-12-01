@@ -6556,8 +6556,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Create Hierarchical Entity Role request": {
-            "$ref": "./examples/model/SuccessfulCreateHierarchicalEntityRoleRequest.json"
+          "Create Hierarchical Entity Role request": {
+            "$ref": "./examples/model/CreateHierarchicalEntityRoleRequest.json"
           }
         }
       }
