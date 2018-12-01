@@ -8661,8 +8661,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Update Custom Prebuilt Entity Extractor Role request": {
-            "$ref": "./examples/model/SuccessfulUpdateCustomPrebuiltEntityRoleRequest.json"
+          "Update Custom Prebuilt Entity Extractor Role request": {
+            "$ref": "./examples/model/UpdateCustomPrebuiltEntityRoleRequest.json"
           }
         }
       },
