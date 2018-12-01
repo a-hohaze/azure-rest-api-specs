@@ -7033,8 +7033,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Get Pattern.Any Entity request": {
-            "$ref": "./examples/model/SuccessfulGetPatternAnyEntityInfoRequest.json"
+          "Get Pattern.Any Entity request": {
+            "$ref": "./examples/model/GetPatternAnyEntityInfoRequest.json"
           }
         }
       },
