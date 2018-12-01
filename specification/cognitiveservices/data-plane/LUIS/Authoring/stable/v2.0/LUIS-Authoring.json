@@ -8723,8 +8723,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Delete Custom Prebuilt Entity Role request": {
-            "$ref": "./examples/model/SuccessfulDeleteCustomPrebuiltEntityRoleRequest.json"
+          "Delete Custom Prebuilt Entity Role request": {
+            "$ref": "./examples/model/DeleteCustomPrebuiltEntityRoleRequest.json"
           }
         }
       }
