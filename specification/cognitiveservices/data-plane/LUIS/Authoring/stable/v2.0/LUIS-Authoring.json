@@ -5489,8 +5489,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Delete Composite Entity Child Model request": {
-            "$ref": "./examples/model/SuccessfulDeleteCompositeChildModelRequest.json"
+          "Delete Composite Entity Child Model request": {
+            "$ref": "./examples/model/DeleteCompositeChildModelRequest.json"
           }
         }
       }
