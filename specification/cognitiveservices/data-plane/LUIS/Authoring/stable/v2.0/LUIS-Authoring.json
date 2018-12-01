@@ -8081,8 +8081,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Update Composite Entity Extractor Role request": {
-            "$ref": "./examples/model/SuccessfulUpdateCompositeEntityRoleRequest.json"
+          "Update Composite Entity Extractor Role request": {
+            "$ref": "./examples/model/UpdateCompositeEntityRoleRequest.json"
           }
         }
       },
