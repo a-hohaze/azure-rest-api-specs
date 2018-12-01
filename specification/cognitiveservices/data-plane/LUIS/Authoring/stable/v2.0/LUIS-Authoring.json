@@ -8923,8 +8923,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Delete Pattern.Any Explicit List Item request": {
-            "$ref": "./examples/model/SuccessfulDeletePatternAnyExplicitListItemRequest.json"
+          "Delete Pattern.Any Explicit List Item request": {
+            "$ref": "./examples/model/DeletePatternAnyExplicitListItemRequest.json"
           }
         }
       }
