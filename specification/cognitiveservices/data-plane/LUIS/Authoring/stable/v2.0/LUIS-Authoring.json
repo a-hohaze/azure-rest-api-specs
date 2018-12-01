@@ -8466,8 +8466,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Update Hierarchical Entity Extractor Role request": {
-            "$ref": "./examples/model/SuccessfulUpdateHierarchicalEntityRoleRequest.json"
+          "Update Hierarchical Entity Extractor Role request": {
+            "$ref": "./examples/model/UpdateHierarchicalEntityRoleRequest.json"
           }
         }
       },
