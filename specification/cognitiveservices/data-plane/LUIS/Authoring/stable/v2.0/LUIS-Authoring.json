@@ -6207,8 +6207,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Create Regex Entity Role request": {
-            "$ref": "./examples/model/SuccessfulCreateRegexEntityRoleRequest.json"
+          "Create Regex Entity Role request": {
+            "$ref": "./examples/model/CreateRegexEntityRoleRequest.json"
           }
         }
       }
