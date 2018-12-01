@@ -6977,8 +6977,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Delete Regex Entity request": {
-            "$ref": "./examples/model/SuccessfulDeleteRegexEntityRequest.json"
+          "Delete Regex Entity request": {
+            "$ref": "./examples/model/DeleteRegexEntityRequest.json"
           }
         }
       }
