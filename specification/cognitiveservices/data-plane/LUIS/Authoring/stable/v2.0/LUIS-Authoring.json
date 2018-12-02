@@ -9451,8 +9451,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Application Version settings request": {
-            "$ref": "./examples/versions/SuccessfulGetApplicationVersionSettingsRequest.json"
+          "Get Application Version settings request": {
+            "$ref": "./examples/versions/GetApplicationVersionSettingsRequest.json"
           }
         }
       },
