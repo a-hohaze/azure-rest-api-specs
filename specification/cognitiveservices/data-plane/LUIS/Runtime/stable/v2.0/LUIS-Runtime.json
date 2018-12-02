@@ -105,7 +105,9 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "$ref": "./examples/prediction/SuccessfulGetPredictionsFromEndpointViaGetRequest.json"
+          "Get Predictions From Endpoint Via Get request": {
+            "$ref": "./examples/prediction/GetPredictionsFromEndpointViaGetRequest.json"
+          }
         }
       },
       "post": {
@@ -202,8 +204,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Get Predictions From Endpoint Via Post request": {
-            "$ref": "./examples/prediction/SuccessfulGetPredictionsFromEndpointViaPostRequest.json"
+          "Get Predictions From Endpoint Via Post request": {
+            "$ref": "./examples/prediction/GetPredictionsFromEndpointViaPostRequest.json"
           }
         }
       }
