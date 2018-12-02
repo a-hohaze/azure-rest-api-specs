@@ -9289,8 +9289,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Update Pattern request": {
-            "$ref": "./examples/patterns/SuccessfulUpdatePatternRequest.json"
+          "Update Pattern request": {
+            "$ref": "./examples/patterns/UpdatePatternRequest.json"
           }
         }
       },
