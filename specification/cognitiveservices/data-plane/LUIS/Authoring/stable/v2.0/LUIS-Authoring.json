@@ -9343,8 +9343,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Delete Pattern request": {
-            "$ref": "./examples/patterns/SuccessfulDeletePatternRequest.json"
+          "Delete Pattern request": {
+            "$ref": "./examples/patterns/DeletePatternRequest.json"
           }
         }
       }
