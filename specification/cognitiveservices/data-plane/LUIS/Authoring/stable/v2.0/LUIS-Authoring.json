@@ -9098,8 +9098,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Batch Update Patterns request": {
-            "$ref": "./examples/patterns/SuccessfulUpdatePatternsRequest.json"
+          "Batch Update Patterns request": {
+            "$ref": "./examples/patterns/UpdatePatternsRequest.json"
           }
         }
       },
