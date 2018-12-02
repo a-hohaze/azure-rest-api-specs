@@ -9037,8 +9037,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Get Application Version Patterns request": {
-            "$ref": "./examples/patterns/SuccessfulGetPatternsRequest.json"
+          "Get Application Version Patterns request": {
+            "$ref": "./examples/patterns/GetPatternsRequest.json"
           }
         }
       },
