@@ -9159,8 +9159,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Batch Add Patterns request": {
-            "$ref": "./examples/patterns/SuccessfulBatchAddLabelsRequest.json"
+          "Batch Add Patterns request": {
+            "$ref": "./examples/patterns/BatchAddLabelsRequest.json"
           }
         }
       },
