@@ -9509,8 +9509,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Update Application Version settings request": {
-            "$ref": "./examples/versions/SuccessfulUpdateApplicationVersionSettingsRequest.json"
+          "Update Application Version settings request": {
+            "$ref": "./examples/versions/UpdateApplicationVersionSettingsRequest.json"
           }
         }
       }
