@@ -9221,8 +9221,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Batch Delete Patterns request": {
-            "$ref": "./examples/patterns/SuccessfulDeletePatternsRequest.json"
+          "Batch Delete Patterns request": {
+            "$ref": "./examples/patterns/DeletePatternsRequest.json"
           }
         }
       }
