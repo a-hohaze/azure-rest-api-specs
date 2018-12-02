@@ -8983,8 +8983,8 @@
           }
         },
         "x-ms-examples": {
-          "Successful Add Pattern request": {
-            "$ref": "./examples/patterns/SuccessfulAddPatternRequest.json"
+          "Add Pattern request": {
+            "$ref": "./examples/patterns/AddPatternRequest.json"
           }
         }
       }
