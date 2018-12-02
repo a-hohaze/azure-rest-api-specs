@@ -85,16 +85,14 @@
       }
     },
     "409": {
-      "headers": {},
-      "body": {}
+      "headers": {}
     },
     "410": {
       "headers": {},
       "body": "Please re-train and republish your application."
     },
     "414": {
-      "headers": {},
-      "body": {}
+      "headers": {}
     }
   }
 }
