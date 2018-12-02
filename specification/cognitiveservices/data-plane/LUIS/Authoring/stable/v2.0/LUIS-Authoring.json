@@ -696,8 +696,8 @@
           "application/json"
         ],
         "x-ms-examples": {
-          "Successful Add Label request": {
-            "$ref": "./examples/examples/SuccessfulAddLabelRequest.json"
+          "Add Label request": {
+            "$ref": "./examples/examples/AddLabelRequest.json"
           }
         }
       }
